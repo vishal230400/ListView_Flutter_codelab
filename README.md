@@ -1,4 +1,4 @@
-# List View
+# Name Generator
 
 A new Flutter application which generates infinte scroll List View.
 
